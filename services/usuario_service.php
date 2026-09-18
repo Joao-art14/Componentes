@@ -6,5 +6,5 @@ function usuarioService(){
         "João",
         "Maria",
         "Carlos"
-    ]
+    ];
 }
